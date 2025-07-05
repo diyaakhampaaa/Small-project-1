@@ -1,4 +1,4 @@
-# Small project 1- Sidebar Navigation
+# Small Project 1- Sidebar Navigation
 
 This is a basic responsive sidebar navigation menu I made while learning HTML, CSS.
 
@@ -19,4 +19,4 @@ This is a basic responsive sidebar navigation menu I made while learning HTML, C
 - CSS
 - FONT AWESOME
 
-  Made with ❤️ by DIYA KHAMPA
+  Made with ❤️ by DIYA KHAMPA | Learner & Developer💡
