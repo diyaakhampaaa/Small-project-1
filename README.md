@@ -12,8 +12,8 @@ This is a basic responsive sidebar navigation menu I made while learning HTML, C
 2. Open "index.html" in your browser
 
 ## Screenshot
-![PROJECT SIDEBAR PREVIEW](Screenshots/Screenshot 2025-07-06 000622.png)
-(Screenshots/Screenshot 2025-07-06 000645.png)
+
+soon!!
 
 ## Built with
 - HTML
